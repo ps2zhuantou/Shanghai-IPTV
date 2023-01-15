@@ -94,7 +94,7 @@ http://192.168.3.1:4022/rtp/239.45.0.20:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-164K
 http://192.168.3.1:4022/rtp/239.45.0.12:5140
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16HD
-https://live.v1.mk/aishang/cctv16hd
+https://live.v1.mk/api/ghyx.php?id=CCTV16HD_6000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17HD
 http://192.168.3.1:4022/rtp/239.45.3.52:5140
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视HD
