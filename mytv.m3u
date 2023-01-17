@@ -103,7 +103,7 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上海综合" tvg-name="上海综合" tvg-logo="https://epg.112114.xyz/logo/上海综合.png" group-title="上海",上海综合
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻.png" group-title="上海",,上海综合
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
@@ -111,17 +111,17 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mn
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/东方影视.png" group-title="上海",东方影视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="其他",五星体育
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="其他",第一财经
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="其他",东方财经
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.112114.xyz/logo/东方财经.png" group-title="上海",东方财经
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="上视纪实人文" tvg-name="上视纪实人文" tvg-logo="https://epg.112114.xyz/logo/上视纪实人文.png" group-title="其他",纪实人文
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",纪实人文
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="其他",七彩戏剧
+#EXTINF:-1,tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="上海",七彩戏剧
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球频道
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
