@@ -131,13 +131,13 @@ http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
 http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="其他",健康养生 8M
+#EXTINF:-1,tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="其他",健康养生 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="其他",百变课堂 8M
+#EXTINF:-1,tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="其他",百变课堂 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选 8M
+#EXTINF:-1,tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院 8M
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂 8M
 http://tt-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
