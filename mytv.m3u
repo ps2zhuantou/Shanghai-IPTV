@@ -41,7 +41,7 @@ http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/800000
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育1台
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台" group-title="其他",中国教育4台
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4台
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
