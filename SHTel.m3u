@@ -9,7 +9,7 @@ http://192.168.3.1:4022/rtp/239.45.1.55:5140
 http://192.168.3.1:4022/rtp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",纪实人文HD
 http://192.168.3.1:4022/rtp/239.45.3.212:5140
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="其他",新闻综合HD
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海",新闻综合HD
 http://192.168.3.1:4022/rtp/239.45.3.209:5140
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育HD
 http://192.168.3.1:4022/rtp/239.45.3.210:5140
