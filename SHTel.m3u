@@ -187,7 +187,7 @@ http://192.168.3.1:4022/rtp/239.45.1.36:5140
 http://192.168.3.1:4022/rtp/239.45.1.37:5140
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/高二年级.png" group-title="其他",高二年级
 http://192.168.3.1:4022/rtp/239.45.1.38:5140
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/高三年级.png" group-title="其他",高三年级
+#EXTINF:-1,tvg-id="高三年级" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/高三年级.png" group-title="其他",高三年级
 http://192.168.3.1:4022/rtp/239.45.1.39:5140
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/百事通4K电影.png" group-title="其他",百事通4K电影
 http://192.168.3.1:4022/rtp/239.45.3.107:5140
