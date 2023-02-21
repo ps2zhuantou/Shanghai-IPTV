@@ -93,7 +93,7 @@ https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
 https://live.v1.mk/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育 8M
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="其他",纬来体育
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
