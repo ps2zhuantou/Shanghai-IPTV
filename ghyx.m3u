@@ -95,16 +95,16 @@ https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
 https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
 https://live.v1.mk/api/ghyx.php?id=YunNanHD2_6000
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视 标清
-https://live.v1.mk/api/ghyx.php?id=ShanXiHD2_6000
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视 标清
-https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 https://live.v1.mk/api/ghyx.php?id=ShannXiHD_2000
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 https://live.v1.mk/api/ghyx.php?id=GanSuHD2_6000
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
 https://live.v1.mk/api/ghyx.php?id=SanShaHD2_6000
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视 标清
+https://live.v1.mk/api/ghyx.php?id=ShanXiHD2_6000
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视 标清
+https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视 标清
 https://live.v1.mk/api/ghyx.php?id=BTTVHD_2000
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视 标清
