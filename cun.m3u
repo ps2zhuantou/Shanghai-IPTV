@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K2
-https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+http://192.168.3.11:5678/cctv4k.php
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1HD
 http://20.254.1.9/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/index.m3u8?rrsip=20.254.1.9&fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=DqeOAMUPzTlrlzXuL4pBCbRPTwSdZMgh5PwU48BC6fECn61zsKoHnzl87K0xQr3SSP4HZQeFhgM5Y0BHS5TYMpUmUNsyNBqVzifikOqlC%2BswuKF%2FpCAyrAG%2FMYsvG7M%2BaD5TEYBzHe3d%2B4zDyIZ7uA%3D%3D%3A20221013130140%2CIPTV00416644%2C10.187.0.19%2C20221013130140%2CUmai%3ACHAN%2F111128%40BESTV.SMG.SMG%2C5B0F3C5CD24B4DBA1EB15BC63F5317F8%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2HD
@@ -38,7 +38,7 @@ http://20.254.1.9/PLTV/88888888/224/3221225891/10000100000000060000000001558693_
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15HD
 http://20.254.1.9/PLTV/88888888/224/3221226035/10000100000000060000000002233162_0.smil/index.m3u8?rrsip=20.254.1.9&fmt=ts2hls&servicetype=2&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=DqeOAMUPzTlrlzXuL4pBCbRPTwSdZMgh5PwU48BC6fECn61zsKoHnzl87K0xQr3SSP4HZQeFhgM5Y0BHS5TYMpUmUNsyNBqVzifikOqlC%2BswuKF%2FpCAyrAG%2FMYsvG7M%2BBVhYg5VrrbSKxLg8KlzRVQ%3D%3D%3A20221013130140%2CIPTV00416644%2C10.187.0.19%2C20221013130140%2CUmai%3ACHAN%2F6000055%40BESTV.SMG.SMG%2C5B0F3C5CD24B4DBA1EB15BC63F5317F8%2C-1%2C1%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16-4K
-https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-id="7249" tvg-name="CCTV16" group-title="CCTV",CCTV-16HD
 https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17HD
