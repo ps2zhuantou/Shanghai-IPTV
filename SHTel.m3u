@@ -48,7 +48,7 @@ http://192.168.3.1:4022/rtp/239.45.3.135:5140
 #EXTINF:-1,tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="其他",七彩戏剧HD
 http://192.168.3.1:4022/rtp/239.45.0.16:5140
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://192.168.3.10:5678/cctv4k.php
+http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1HD
 http://192.168.3.1:4022/rtp/239.45.3.145:5140
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2HD
