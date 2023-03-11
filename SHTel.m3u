@@ -14,7 +14,7 @@ http://192.168.3.1:4022/rtp/239.45.3.209:5140
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育HD
 http://192.168.3.1:4022/rtp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="上海",劲爆体育HD
-https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+http://203.205.136.119/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",第一财经HD
 http://192.168.3.1:4022/rtp/239.45.3.211:5140
 #EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语HD
