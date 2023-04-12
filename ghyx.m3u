@@ -73,6 +73,8 @@ http://liveyfs.yun.gehua.net.cn:8088/live/CCTVmusicHD.m3u8
 http://liveyfs.yun.gehua.net.cn:8088/live/CCTV16SD.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD
 http://liveyfs.yun.gehua.net.cn:8088/live/CCTV16HD.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
+http://liveyfs.yun.gehua.net.cn:8088/live/CCTV16UHD.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17农业农村
 http://liveyfs.yun.gehua.net.cn:8088/live/CCTV17SD.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17农业农村HD
