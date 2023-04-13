@@ -35,92 +35,6 @@ http://192.168.3.10:5678/ghy.php?id=cctv15b
 http://192.168.3.10:5678/ghy.php?id=cctv16hd
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://192.168.3.10:5678/ghy.php?id=cctv17hd
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
-http://192.168.3.10:5678/ghy.php?id=ghdshd
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院 标清
-http://192.168.3.10:5678/ghy.php?id=chcjt2
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-http://192.168.3.10:5678/ghy.php?id=chcgqhd
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影 标清
-http://192.168.3.10:5678/ghy.php?id=chcdz2
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
-http://192.168.3.10:5678/ghy.php?id=Ddsjc2
-#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实人文HD
-http://192.168.3.10:5678/ghy.php?id=jsrwhd
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
-http://192.168.3.10:5678/ghy.php?id=shss2
-#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
-http://192.168.3.10:5678/ghy.php?id=jsxt2
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
-http://192.168.3.10:5678/ghy.php?id=dmxc2
-#EXTINF:-1,tvg-id="车迷" tvg-name="车迷" tvg-logo="https://epg.112114.xyz/logo/车迷.png" group-title="其他",车迷频道2
-http://192.168.3.10:5678/ghy.php?id=cmpd2
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地
-http://192.168.3.10:5678/ghy.php?id=fztd2
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
-http://192.168.3.10:5678/ghy.php?id=mlzq2
-#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
-http://192.168.3.10:5678/ghy.php?id=ly2
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
-http://192.168.3.10:5678/ghy.php?id=jbty2
-#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
-http://192.168.3.10:5678/ghy.php?id=yxfy2
-#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球
-http://192.168.3.10:5678/ghy.php?id=zqpd2
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://192.168.3.10:5678/ghy.php?id=sdjy2
-#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://epg.112114.xyz/logo/收藏天下.png" group-title="其他",收藏天下
-http://192.168.3.10:5678/ghy.php?id=sctx2
-#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="其他",中华美食
-http://192.168.3.10:5678/ghy.php?id=zhms2
-#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
-http://192.168.3.10:5678/ghy.php?id=cpd2
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://192.168.3.10:5678/ghy.php?id=jykt2
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="其他",财富天下
-http://192.168.3.10:5678/ghy.php?id=cftx2.m3u8
-#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
-http://192.168.3.10:5678/ghy.php?id=tywq2.m3u8
-#EXTINF:-1,tvg-id="空中课堂一年级" tvg-name="空中课堂一年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂一年级.png" group-title="其他",空中课堂一年级
-http://192.168.3.10:5678/ghy.php?id=kzktx1b
-#EXTINF:-1,tvg-id="空中课堂二年级" tvg-name="空中课堂二年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂二年级.png" group-title="其他",空中课堂二年级
-http://192.168.3.10:5678/ghy.php?id=kzktx2b
-#EXTINF:-1,tvg-id="空中课堂三年级" tvg-name="空中课堂三年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂三年级.png" group-title="其他",空中课堂三年级
-http://192.168.3.10:5678/ghy.php?id=kzktx3b
-#EXTINF:-1,tvg-id="空中课堂四年级" tvg-name="空中课堂四年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂四年级.png" group-title="其他",空中课堂四年级
-http://192.168.3.10:5678/ghy.php?id=kzktx4b
-#EXTINF:-1,tvg-id="空中课堂五年级" tvg-name="空中课堂五年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂五年级.png" group-title="其他",空中课堂五年级
-http://192.168.3.10:5678/ghy.php?id=kzktx5b
-#EXTINF:-1,tvg-id="空中课堂六年级" tvg-name="空中课堂六年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂六年级.png" group-title="其他",空中课堂六年级
-http://192.168.3.10:5678/ghy.php?id=kzktx6b
-#EXTINF:-1,tvg-id="空中课堂初一" tvg-name="空中课堂初一" tvg-logo="https://epg.112114.xyz/logo/空中课堂初一.png" group-title="其他",空中课堂初一
-http://192.168.3.10:5678/ghy.php?id=kzktc1b
-#EXTINF:-1,tvg-id="空中课堂初二" tvg-name="空中课堂初二" tvg-logo="https://epg.112114.xyz/logo/空中课堂初二.png" group-title="其他",空中课堂初二
-http://192.168.3.10:5678/ghy.php?id=kzktc2b
-#EXTINF:-1,tvg-id="空中课堂初三" tvg-name="空中课堂初三" tvg-logo="https://epg.112114.xyz/logo/空中课堂初三.png" group-title="其他",空中课堂初三
-http://192.168.3.10:5678/ghy.php?id=kzktc3b
-#EXTINF:-1,tvg-id="空中课堂高一" tvg-name="空中课堂高一" tvg-logo="https://epg.112114.xyz/logo/空中课堂高一.png" group-title="其他",空中课堂高一
-http://192.168.3.10:5678/ghy.php?id=kzktg1b
-#EXTINF:-1,tvg-id="空中课堂高二" tvg-name="空中课堂高二" tvg-logo="https://epg.112114.xyz/logo/空中课堂高二.png" group-title="其他",空中课堂高二
-http://192.168.3.10:5678/ghy.php?id=kzktg2b
-#EXTINF:-1,tvg-id="空中课堂高三" tvg-name="空中课堂高三" tvg-logo="https://epg.112114.xyz/logo/空中课堂高三.png" group-title="其他",空中课堂高三
-http://192.168.3.10:5678/ghy.php?id=kzktg3b
-#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="央视",中央新影-发现之旅
-http://192.168.3.10:5678/ghy.php?id=fxzl2
-#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
-http://192.168.3.10:5678/ghy.php?id=lgs2
-#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道
-http://192.168.3.10:5678/ghy.php?id=sh2
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
-http://192.168.3.10:5678/ghy.php?id=zgtq2
-#EXTINF:-1,tvg-id="中教1台" tvg-name="中教1台" tvg-logo="https://epg.112114.xyz/logo/中教1台.png" group-title="其他",CETV1中教1台
-http://192.168.3.10:5678/ghy.php?id=cetv1hd
-#EXTINF:-1,tvg-id="中教3台" tvg-name="中教3台" tvg-logo="https://epg.112114.xyz/logo/中教3台.png" group-title="其他",CETV3中教3台
-http://192.168.3.10:5678/ghy.php?id=cetv3b
-#EXTINF:-1,tvg-id="CETV4中教4台" tvg-name="CETV4中教4台" tvg-logo="https://epg.112114.xyz/logo/CETV4中教4台.png" group-title="其他",CETV4中教4台
-http://192.168.3.10:5678/ghy.php?id=cetv4b
-#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",CETV早期教育
-http://192.168.3.10:5678/ghy.php?id=zqjy2
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视HD
 http://192.168.3.10:5678/ghy.php?id=bjhd
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视HD
@@ -191,3 +105,89 @@ http://192.168.3.10:5678/ghy.php?id=xzws2
 http://192.168.3.10:5678/ghy.php?id=hinhd
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视HD
 http://192.168.3.10:5678/ghy.php?id=ssws3
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视
+http://192.168.3.10:5678/ghy.php?id=ghdshd
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院 标清
+http://192.168.3.10:5678/ghy.php?id=chcjt2
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
+http://192.168.3.10:5678/ghy.php?id=chcgqhd
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影 标清
+http://192.168.3.10:5678/ghy.php?id=chcdz2
+#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="央视",中央新影-发现之旅
+http://192.168.3.10:5678/ghy.php?id=fxzl2
+#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
+http://192.168.3.10:5678/ghy.php?id=lgs2
+#EXTINF:-1,tvg-id="书画" tvg-name="书画" tvg-logo="https://epg.112114.xyz/logo/书画.png" group-title="其他",书画频道
+http://192.168.3.10:5678/ghy.php?id=sh2
+#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
+http://192.168.3.10:5678/ghy.php?id=zgtq2
+#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
+http://192.168.3.10:5678/ghy.php?id=Ddsjc2
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="其他,上海纪实人文HD
+http://192.168.3.10:5678/ghy.php?id=jsrwhd
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
+http://192.168.3.10:5678/ghy.php?id=shss2
+#EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
+http://192.168.3.10:5678/ghy.php?id=jsxt2
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
+http://192.168.3.10:5678/ghy.php?id=dmxc2
+#EXTINF:-1,tvg-id="车迷" tvg-name="车迷" tvg-logo="https://epg.112114.xyz/logo/车迷.png" group-title="其他",车迷频道2
+http://192.168.3.10:5678/ghy.php?id=cmpd2
+#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地
+http://192.168.3.10:5678/ghy.php?id=fztd2
+#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
+http://192.168.3.10:5678/ghy.php?id=mlzq2
+#EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
+http://192.168.3.10:5678/ghy.php?id=ly2
+#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
+http://192.168.3.10:5678/ghy.php?id=jbty2
+#EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
+http://192.168.3.10:5678/ghy.php?id=yxfy2
+#EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球
+http://192.168.3.10:5678/ghy.php?id=zqpd2
+#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://192.168.3.10:5678/ghy.php?id=sdjy2
+#EXTINF:-1,tvg-id="收藏天下" tvg-name="收藏天下" tvg-logo="https://epg.112114.xyz/logo/收藏天下.png" group-title="其他",收藏天下
+http://192.168.3.10:5678/ghy.php?id=sctx2
+#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.112114.xyz/logo/中华美食.png" group-title="其他",中华美食
+http://192.168.3.10:5678/ghy.php?id=zhms2
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道
+http://192.168.3.10:5678/ghy.php?id=cpd2
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+http://192.168.3.10:5678/ghy.php?id=jykt2
+#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="其他",财富天下
+http://192.168.3.10:5678/ghy.php?id=cftx2.m3u8
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
+http://192.168.3.10:5678/ghy.php?id=tywq2.m3u8
+#EXTINF:-1,tvg-id="中教1台" tvg-name="中教1台" tvg-logo="https://epg.112114.xyz/logo/中教1台.png" group-title="其他",CETV1中教1台
+http://192.168.3.10:5678/ghy.php?id=cetv1hd
+#EXTINF:-1,tvg-id="中教3台" tvg-name="中教3台" tvg-logo="https://epg.112114.xyz/logo/中教3台.png" group-title="其他",CETV3中教3台
+http://192.168.3.10:5678/ghy.php?id=cetv3b
+#EXTINF:-1,tvg-id="CETV4中教4台" tvg-name="CETV4中教4台" tvg-logo="https://epg.112114.xyz/logo/CETV4中教4台.png" group-title="其他",CETV4中教4台
+http://192.168.3.10:5678/ghy.php?id=cetv4b
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/早期教育.png" group-title="其他",CETV早期教育
+http://192.168.3.10:5678/ghy.php?id=zqjy2
+#EXTINF:-1,tvg-id="空中课堂一年级" tvg-name="空中课堂一年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂一年级.png" group-title="其他",空中课堂一年级
+http://192.168.3.10:5678/ghy.php?id=kzktx1b
+#EXTINF:-1,tvg-id="空中课堂二年级" tvg-name="空中课堂二年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂二年级.png" group-title="其他",空中课堂二年级
+http://192.168.3.10:5678/ghy.php?id=kzktx2b
+#EXTINF:-1,tvg-id="空中课堂三年级" tvg-name="空中课堂三年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂三年级.png" group-title="其他",空中课堂三年级
+http://192.168.3.10:5678/ghy.php?id=kzktx3b
+#EXTINF:-1,tvg-id="空中课堂四年级" tvg-name="空中课堂四年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂四年级.png" group-title="其他",空中课堂四年级
+http://192.168.3.10:5678/ghy.php?id=kzktx4b
+#EXTINF:-1,tvg-id="空中课堂五年级" tvg-name="空中课堂五年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂五年级.png" group-title="其他",空中课堂五年级
+http://192.168.3.10:5678/ghy.php?id=kzktx5b
+#EXTINF:-1,tvg-id="空中课堂六年级" tvg-name="空中课堂六年级" tvg-logo="https://epg.112114.xyz/logo/空中课堂六年级.png" group-title="其他",空中课堂六年级
+http://192.168.3.10:5678/ghy.php?id=kzktx6b
+#EXTINF:-1,tvg-id="空中课堂初一" tvg-name="空中课堂初一" tvg-logo="https://epg.112114.xyz/logo/空中课堂初一.png" group-title="其他",空中课堂初一
+http://192.168.3.10:5678/ghy.php?id=kzktc1b
+#EXTINF:-1,tvg-id="空中课堂初二" tvg-name="空中课堂初二" tvg-logo="https://epg.112114.xyz/logo/空中课堂初二.png" group-title="其他",空中课堂初二
+http://192.168.3.10:5678/ghy.php?id=kzktc2b
+#EXTINF:-1,tvg-id="空中课堂初三" tvg-name="空中课堂初三" tvg-logo="https://epg.112114.xyz/logo/空中课堂初三.png" group-title="其他",空中课堂初三
+http://192.168.3.10:5678/ghy.php?id=kzktc3b
+#EXTINF:-1,tvg-id="空中课堂高一" tvg-name="空中课堂高一" tvg-logo="https://epg.112114.xyz/logo/空中课堂高一.png" group-title="其他",空中课堂高一
+http://192.168.3.10:5678/ghy.php?id=kzktg1b
+#EXTINF:-1,tvg-id="空中课堂高二" tvg-name="空中课堂高二" tvg-logo="https://epg.112114.xyz/logo/空中课堂高二.png" group-title="其他",空中课堂高二
+http://192.168.3.10:5678/ghy.php?id=kzktg2b
+#EXTINF:-1,tvg-id="空中课堂高三" tvg-name="空中课堂高三" tvg-logo="https://epg.112114.xyz/logo/空中课堂高三.png" group-title="其他",空中课堂高三
+http://192.168.3.10:5678/ghy.php?id=kzktg3b
