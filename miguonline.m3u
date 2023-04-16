@@ -149,7 +149,7 @@ http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/fztd/1000/01.m3u8?&HlsSubType=
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/huanxiaojuchanghd/1200/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/quanjishihd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="其他",五星体育
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="其他",五星体育
 http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/wuxingtiyuhd/3000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/youxifengyunhd/1200/01.m3u8?&HlsSubType=&encrypt=
