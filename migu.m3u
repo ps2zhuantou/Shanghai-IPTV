@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png",咪咕1
-http://117.136.156.66:80/000000001001/3000000001000005308/1.m3u8
+http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3&version=1.0&owaccmark=3000000001000028638&owchid=FifastbLive&owsid=4753061681650601689&AuthInfo=O1heVBI2C0%2FLdspd1JtWFwu6uk8brsZNxoyvFOu56KCzk2314q5efCzzcDZpeY2sJGksemtPz%2BrGUV2Tz%2BP9MTw8siJGLdNJr1Qdg3PcAuI%3D
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png",咪咕2
 http://117.136.156.66:80/000000001001/3000000001000005969/1.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png",咪咕3
