@@ -146,7 +146,7 @@ http://hlsbkmgsplive.miguvideo.com/ws_w/2018/xdkt/xdkt711/1000/01.m3u8?&HlsSubTy
 #EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地
 http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/fztd/1000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,tvg-id="SITV欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/SITV欢笑剧场.png" group-title="其他",欢笑剧场
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/huanxiaojuchanghd/1200/01.m3u8?&HlsSubType=&encrypt=
+http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/huanxiaojuchanghd/600/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/quanjishihd/3000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="上海",五星体育
