@@ -58,7 +58,7 @@ http://39.145.32.119/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/m
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育HD
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育
-https://epg.pw/stream/39e8448c3fe78d23604c0555a3b80d2e706bd1fbc408150490b8a1191ff44a10.m3u8
+https://epg.pw/stream/1bb62481510bab5aea601246b4a88ebdfc59994b84c64e6896ecd3fb27048c0c.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="足球频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/足球频道.png" group-title="地方",足球频道HD
 http://192.168.3.1:7088/rtp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="54" tvg-name="都市频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/都市频道.png" group-title="地方",都市频道HD
