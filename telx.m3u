@@ -108,6 +108,10 @@ http://192.168.3.1:7088/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/快乐垂钓.png" group-title="地方",快乐垂钓HD
 http://192.168.3.1:7088/rtp/239.45.3.12:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文HD
+http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯HD
+http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文HD
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯HD
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
