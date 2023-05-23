@@ -35,6 +35,8 @@ http://192.168.3.1:7088/rtp/239.45.0.19:5140
 http://192.168.3.1:7088/rtp/239.45.3.23:5140
 #EXTINF:-1 tvg-id="83" tvg-name="CCTV-15" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-15.png" group-title="央视",CCTV-15HD
 http://192.168.3.1:7088/rtp/239.45.0.20:5140
+#EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-16.png" group-title="央视",CCTV-16HD
+http://192.168.3.1:7088/udp/239.45.0.10:5140
 #EXTINF:-1 tvg-id="115" tvg-name="CCTV-16" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-16.png" group-title="央视",CCTV-16 4K
 http://192.168.3.1:7088/rtp/239.45.0.12:5140
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV-17" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-17.png" group-title="央视",CCTV-17HD
