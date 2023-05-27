@@ -116,9 +116,9 @@ http://192.168.3.1:7088/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/快乐垂钓.png" group-title="地方",快乐垂钓HD
 http://192.168.3.1:7088/udp/239.45.3.12:5140
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文HD
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯HD
-http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="东方卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.3.1:7088/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="89" tvg-name="北京卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/beijing.png" group-title="卫视",北京卫视HD
