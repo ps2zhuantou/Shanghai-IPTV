@@ -39,6 +39,8 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001248/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001241/1.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
+http://cs.iptv6.top/dsm.php?id=ys4Kcq_2000
 #EXTINF:-1 tvg-id="61" tvg-name="外语频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/外语频道.png" group-title="上海",外语频道
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001128/1.m3u8
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海",上海第一财经
