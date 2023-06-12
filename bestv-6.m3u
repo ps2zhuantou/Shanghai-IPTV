@@ -41,6 +41,8 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001241/1.m3u8
 #EXTINF:-1,tvg-id="184" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 https://cntv.sbs/ipv6?auth=230612&id=ys4Kcq_2000
+#EXTINF:-1,tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV8K
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="181" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视",CHC家庭影院
@@ -175,3 +177,4 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001359/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001378/1.m3u8
 #EXTINF:-1,tvg-id="百视通" tvg-name="百视通" tvg-logo="https://epg.112114.xyz/logo/百视通.png" group-title="百视通",百视通
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001388/1.m3u8
+
