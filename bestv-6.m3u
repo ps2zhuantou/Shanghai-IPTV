@@ -185,13 +185,13 @@ http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001223/1.m3u8
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001023/1.m3u8
 #EXTINF:-1,tvg-id="77" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001129/1.m3u8
-#EXTINF:-1,tvg-id="151" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育1
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",中国教育1
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001020/1.m3u8
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育2
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="其他",中国教育2
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="其他",中国教育3
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://epg.112114.xyz/logo/CETV3.png" group-title="其他",中国教育3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="154" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="其他",中国教育4
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001348/1.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="NewTV系列",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
