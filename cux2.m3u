@@ -203,8 +203,6 @@ http://20.253.1.23/PLTV/88888888/224/3221225826/10000100000000060000000001128717
 http://20.253.1.23/PLTV/88888888/224/3221225913/10000100000000060000000001592695_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="上海五星体育" tvg-name="上海五星体育" tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="其他",五星体育
 http://20.253.1.23/PLTV/88888888/224/3221225695/10000100000000060000000000013591_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育HD
-https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="其他",哈哈炫动
 http://20.253.1.23/PLTV/88888888/224/3221225614/10000100000000060000000000012448_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="其他",外语频道
