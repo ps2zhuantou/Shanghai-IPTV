@@ -23,7 +23,7 @@ http://20.253.1.23/PLTV/88888888/224/3221225784/10000100000000060000000001020054
 http://20.253.1.23/PLTV/88888888/224/3221225816/10000100000000060000000001128677_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="东方购物-2" tvg-name="东方购物-2" tvg-logo="https://epg.112114.xyz/logo/东方购物2.png" group-title="其他",东方购物-2HD
 http://20.253.1.23/PLTV/88888888/224/3221225844/10000100000000060000000001128678_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="65" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="上海",上海教育HD
+#EXTINF:-1,tvg-id="65" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海",上海教育HD
 http://20.253.1.23/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="66" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="其他",七彩戏剧HD
 http://20.253.1.23/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls
