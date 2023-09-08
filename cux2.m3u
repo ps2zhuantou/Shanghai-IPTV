@@ -13,7 +13,7 @@ http://20.253.1.23/PLTV/88888888/224/3221225690/10000100000000060000000000012476
 http://20.253.1.23/PLTV/88888888/224/3221225688/10000100000000060000000000012477_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="59" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育HD
 http://20.253.1.23/PLTV/88888888/224/3221225689/10000100000000060000000000012789_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="地方",劲爆体育HD
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育HD
 https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
 #EXTINF:-1,tvg-id="55" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="其他",哈哈炫动HD
 http://20.253.1.23/PLTV/88888888/224/3221225855/10000100000000060000000001175042_0.smil/index.m3u8?fmt=ts2hls
@@ -23,7 +23,7 @@ http://20.253.1.23/PLTV/88888888/224/3221225784/10000100000000060000000001020054
 http://20.253.1.23/PLTV/88888888/224/3221225816/10000100000000060000000001128677_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="东方购物-2" tvg-name="东方购物-2" tvg-logo="https://epg.112114.xyz/logo/东方购物2.png" group-title="其他",东方购物-2HD
 http://20.253.1.23/PLTV/88888888/224/3221225844/10000100000000060000000001128678_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="65" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="上海",上海教育HD
+#EXTINF:-1,tvg-id="65" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="其他",上海教育HD
 http://20.253.1.23/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="66" tvg-name="七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/七彩戏剧.png" group-title="其他",七彩戏剧HD
 http://20.253.1.23/PLTV/88888888/224/3221226032/10000100000000060000000002233114_0.smil/index.m3u8?fmt=ts2hls
@@ -211,7 +211,7 @@ http://20.253.1.23/PLTV/88888888/224/3221225611/10000100000000060000000000012447
 http://20.253.1.23/PLTV/88888888/224/3221225829/10000100000000060000000001128700_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="东方购物-2" tvg-name="东方购物-2" tvg-logo="https://epg.112114.xyz/logo/东方购物2.png" group-title="其他",东方购物-2
 http://20.253.1.23/PLTV/88888888/224/3221225830/10000100000000060000000001128702_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="上海",上海教育
+#EXTINF:-1,tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育.png" group-title="其他",上海教育
 http://20.253.1.23/PLTV/88888888/224/3221225785/10000100000000060000000001020078_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.112114.xyz/logo/金色学堂.png" group-title="其他",金色学堂
 http://20.253.1.23/PLTV/88888888/224/3221225632/10000100000000060000000000012531_0.smil/index.m3u8?fmt=ts2hls
