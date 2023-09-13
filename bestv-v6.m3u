@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml,https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.112114.xyz/pp.xml,https://epg.deny.vip/sh/tel-epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001022/1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001398/1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001220/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
