@@ -57,8 +57,6 @@ http://192.168.6.1:7088/udp/239.45.3.210:5140
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育HD
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育rtmp
-rtmp://119.81.124.89/sat/tv721
 #EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/足球频道.png" group-title="地方",足球频道HD
 http://192.168.6.1:7088/udp/239.45.3.22:5140
 #EXTINF:-1 tvg-id="都市频道" tvg-name="都市频道" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/都市频道.png" group-title="地方",都市频道HD
