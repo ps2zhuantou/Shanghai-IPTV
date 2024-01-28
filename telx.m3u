@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://epg.112114.xyz/pp.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://epg.112114.xyz/pp.xml"
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
-http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="CCTV-1" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-1.png" group-title="央视",CCTV-1HD
 http://192.168.6.1:7088/udp/239.45.3.145:5140
 #EXTINF:-1 tvg-id="70" tvg-name="CCTV-2" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CCTV-2.png" group-title="央视",CCTV-2HD
@@ -51,10 +53,8 @@ http://192.168.6.1:7088/udp/239.45.3.132:5140
 http://192.168.6.1:7088/udp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="59" tvg-name="五星体育" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/五星体育.png" group-title="地方",五星体育HD
 http://192.168.6.1:7088/udp/239.45.3.210:5140
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="地方",劲爆体育be
-http://39.145.32.119/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="地方",劲爆体育HD
-http://192.168.6.10:5678/best.php?id=jbty
+#EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育HD
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="地方",纬来体育rtmp
@@ -111,10 +111,12 @@ http://192.168.6.1:7088/udp/239.45.1.45:5140
 http://192.168.6.1:7088/udp/239.45.3.18:5140
 #EXTINF:-1 tvg-id="43" tvg-name="快乐垂钓" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/df/快乐垂钓.png" group-title="地方",快乐垂钓HD
 http://192.168.6.1:7088/udp/239.45.3.12:5140
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文HD
-http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯HD
-http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="东方卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/dongfang.png" group-title="卫视",东方卫视HD
 http://192.168.6.1:7088/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-id="89" tvg-name="北京卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/beijing.png" group-title="卫视",北京卫视HD
