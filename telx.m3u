@@ -132,7 +132,7 @@ http://192.168.6.1:7088/udp/239.45.1.121:5140
 #EXTINF:-1 tvg-id="广东卫视 tvg-name="广东卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/guangdong.png" group-title="卫视",广东卫视HD
 http://192.168.6.1:7088/udp/239.45.3.230:5140
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/qinghai.png" group-title="卫视",青海卫视
-http://192.168.6.1:7088/udp/239.45.1.230:5140
+http://192.168.6.1:7088/udp/239.45.0.37:5140
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://192.168.6.1:7088/udp/239.45.1.238:5140
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/ws/jilin.png" group-title="卫视",吉林卫视HD
