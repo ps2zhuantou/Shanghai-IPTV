@@ -43,6 +43,12 @@ http://192.168.6.1:7088/udp/239.45.0.12:5140
 http://192.168.6.1:7088/udp/239.45.3.52:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://tvlogo-1251833775.cos.ap-shanghai.myqcloud.com/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.6.1:7088/udp/239.45.1.194:5140
+#EXTINF:-1 tvg-id="76" tvg-name="CHC家庭影院" tvg-logo="https://epg.deny.vip/szpd/CHC2.png" group-title="CHC",CHC家庭影院HD
+http://192.168.6.1:7088/udp/239.45.0.40:5140
+#EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
+http://192.168.6.1:7088/udp/239.45.0.41:5140
+#EXTINF:-1 tvg-id="78" tvg-name="CHC高清电影" tvg-logo="https://epg.deny.vip/szpd/CHC1.png" group-title="CHC",CHC高清电影HD
+http://192.168.6.1:7088/udp/239.45.0.42:5140
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视",CCTV风云足球
 http://192.168.6.1:7088/udp/239.45.0.43:5140
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV央视台球
