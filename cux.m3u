@@ -177,7 +177,7 @@ http://20.253.1.27:80/PLTV/88888888/224/3221225852/10000100000000060000000001138
 http://10.223.3.143:80/PLTV/88888888/224/3221226067/409872687.smil/01.m3u8?fmt=ts2hls,532,01.m3u8,0,7844,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
 http://10.223.3.134:80/PLTV/88888888/224/3221226066/409862365.smil/01.m3u8?fmt=ts2hls,542,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影HD
+#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影HD
 http://20.253.1.31:80/PLTV/88888888/224/3221226053/409862914.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="79" tvg-name="风云足球" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYZQ.png" group-title="央视",风云足球HD
 http://20.253.1.31:80/PLTV/88888888/224/3221226055/409862925.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
