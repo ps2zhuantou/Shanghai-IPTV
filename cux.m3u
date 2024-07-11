@@ -52,7 +52,7 @@ http://10.223.3.134:80/PLTV/88888888/224/3221225895/1000010000000006000000000158
 http://20.253.1.28:80/PLTV/88888888/224/3221225842/10000100000000060000000001128715_0.smil/01.m3u8?fmt=ts2hls,24,01.m3u8,0,7814,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="84" tvg-name="茶频道" tvg-logo="https://epg.deny.vip/df/茶频道.png" group-title="其他",茶频道HD
 http://20.253.1.38:80/PLTV/88888888/224/3221225899/10000100000000060000000001580168_0.smil/01.m3u8?fmt=ts2hls,443,01.m3u8,0,7843,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+#EXTINF:-1 tvg-id="124" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://10.223.3.142:80/PLTV/88888888/224/3221226065/409871179.smil/01.m3u8?fmt=ts2hls,531,01.m3u8,0,14671,0,0&tenantId=8601
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1HD
 http://10.223.3.143:80/PLTV/88888888/224/3221225703/10000100000000060000000000035351_0.smil/01.m3u8?fmt=ts2hls,532,01.m3u8,0,7816,0,0&tenantId=8601
