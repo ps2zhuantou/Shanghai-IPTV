@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.com/e.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.com/e.xml"
+#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.6.1:7088/udp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
@@ -197,11 +197,11 @@ http://192.168.6.1:7088/udp/239.45.1.116:5140
 http://192.168.6.1:7088/udp/239.45.1.117:5140
 #EXTINF:-1 tvg-id="243" tvg-name="延边卫视" tvg-logo="https://epg.deny.vip/ws/yanbian.png" group-title="卫视",延边卫视
 http://192.168.6.1:7088/udp/239.45.0.39:5140
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="171" tvg-name="金鹰卡通" tvg-logo="https://epg.deny.vip/df/金鹰卡通.png" group-title="卡通",金鹰卡通HD
 http://192.168.6.1:7088/udp/239.45.0.38:5140
@@ -209,19 +209,19 @@ http://192.168.6.1:7088/udp/239.45.0.38:5140
 http://192.168.6.1:7088/udp/239.45.0.8:5140
 #EXTINF:-1 tvg-id="236" tvg-name="嘉佳卡通" tvg-logo="https://epg.deny.vip/df/嘉佳卡通.png" group-title="卡通",嘉佳卡通
 http://192.168.6.1:7088/udp/239.45.1.48:5140
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="•求索「IPV6」",求索纪录
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="•求索「IPV6」",求索纪录
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="•求索「IPV6」",求索生活
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.cn/tv/求索生活.png" group-title="•求索「IPV6」",求索生活
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="•求索「IPV6」",求索动物
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="•求索「IPV6」",求索动物
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="•求索「IPV6」",求索科学
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="•求索「IPV6」",求索科学
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
