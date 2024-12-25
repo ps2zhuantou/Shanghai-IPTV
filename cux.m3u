@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.com/e.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.com/e.xml"
+#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="107" tvg-name="上海新闻综合" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合HD
 http://20.254.1.9:80/PLTV/88888888/224/3221225701/10000100000000060000000000013592_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EjXi_dEHZJrb4BhWXybu2mg%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1346060%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000013592_0%2CEND
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视HD
@@ -175,7 +175,7 @@ http://20.253.1.27:80/PLTV/88888888/224/3221225852/10000100000000060000000001138
 http://10.223.3.143:80/PLTV/88888888/224/3221226067/409872687.smil/01.m3u8?fmt=ts2hls,532,01.m3u8,0,7844,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="77" tvg-name="CHC动作电影" tvg-logo="https://epg.deny.vip/szpd/CHC3.png" group-title="CHC",CHC动作电影HD
 http://10.223.3.134:80/PLTV/88888888/224/3221226066/409862365.smil/01.m3u8?fmt=ts2hls,542,01.m3u8,0,7844,0,0&tenantId=8601
-#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影HD
+#EXTINF:-1 tvg-id="78" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.cn/tv/CHC影迷电影.png" group-title="CHC",CHC影迷电影HD
 http://20.253.1.31:80/PLTV/88888888/224/3221226053/409862914.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="79" tvg-name="风云足球" tvg-logo="https://epg.deny.vip/cctv/CCTV-FYZQ.png" group-title="央视",风云足球HD
 http://20.253.1.31:80/PLTV/88888888/224/3221226055/409862925.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7843,0,0&tenantId=8601
@@ -201,17 +201,17 @@ http://20.253.1.34:80/PLTV/88888888/224/3221226061/409864256.smil/01.m3u8?fmt=ts
 http://20.253.1.34:80/PLTV/88888888/224/3221226078/409864267.smil/01.m3u8?fmt=ts2hls,144,01.m3u8,0,7845,0,0&tenantId=8601
 #EXTINF:-1 tvg-id="92" tvg-name="早期教育" tvg-logo="https://epg.deny.vip/szpd/CETV-ZQJY.png" group-title="央视",早期教育HD
 http://20.253.1.31:80/PLTV/88888888/224/3221226080/409864278.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7845,0,0&tenantId=8601
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
