@@ -14,7 +14,7 @@ http://20.254.1.9:80/PLTV/88888888/224/3221225688/100001000000000600000000000124
 #EXTINF:-1 tvg-id="108" tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="上海",五星体育HD
 http://20.254.1.9:80/PLTV/88888888/224/3221225689/10000100000000060000000000012789_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EdpuUb9HGE8ap11E88PP9ZQ%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F1161091%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000000012789_0%2CEND
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="上海",劲爆体育HD
-http://192.168.5.237:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+http://192.168.3.232:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="104" tvg-name="哈哈炫动" tvg-logo="https://epg.deny.vip/df/哈哈炫动.png" group-title="上海",哈哈炫动HD
 http://20.254.1.9:80/PLTV/88888888/224/3221225855/10000100000000060000000001175042_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EL5B5ocFvtMozwwHRy3KkDw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F4641019%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001175042_0%2CEND
 #EXTINF:-1 tvg-id="110" tvg-name="上海外语" tvg-logo="https://epg.deny.vip/df/外语频道.png" group-title="上海",外语频道HD
@@ -61,9 +61,9 @@ http://10.223.3.143:80/PLTV/88888888/224/3221225882/1000010000000006000000000155
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5HD
 http://20.253.1.29:80/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7847,0,0&tenantId=8601
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5-4K
-http://192.168.5.237:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
+http://192.168.3.232:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="123" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+
-http://192.168.5.237:35455/gaoma/cctv5p.m3u8
+http://192.168.3.232:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6HD
 http://10.223.3.145:80/PLTV/88888888/224/3221225863/10000100000000060000000001067916_0.smil/01.m3u8?fmt=ts2hls,534,01.m3u8,0,7844,0,0&tenantId=8601
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7HD
