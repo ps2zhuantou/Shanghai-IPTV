@@ -210,10 +210,12 @@ http://192.168.3.232:35455/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 http://192.168.3.232:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
-http://192.168.3.232:35455/rptv/miguaoyun1-AVS.m3u8?license=gitv
+http://192.168.3.232:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
-http://192.168.3.232:35455/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
+http://192.168.3.232:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
-http://192.168.3.232:35455/rptv/G_MIGUJCQS.m3u8?license=gitv
+http://192.168.3.232:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
+http://192.168.3.232:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
 http://192.168.3.232:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
