@@ -60,8 +60,6 @@ http://10.223.3.146:80/PLTV/88888888/224/3221225861/1000010000000006000000000106
 http://10.223.3.143:80/PLTV/88888888/224/3221225882/10000100000000060000000001558308_0.smil/01.m3u8?fmt=ts2hls,532,01.m3u8,0,7815,0,0&tenantId=8601
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5HD
 http://20.253.1.29:80/PLTV/88888888/224/3221225862/10000100000000060000000001067915_0.smil/01.m3u8?fmt=ts2hls,124,01.m3u8,0,7847,0,0&tenantId=8601
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5-4K
-http://192.168.3.232:35455/rptv/G_CCTV-5-AVS-4K264.m3u8?license=gitv
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+
 http://192.168.3.232:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6HD
