@@ -218,10 +218,11 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000009/index.m3u8?
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="•求索「IPV6」",求索科学
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="•体育「IPV6」",睛彩竞技
-http://192.168.6.187:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
+http://192.168.6.187:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="•体育「IPV6」",睛彩篮球
-http://192.168.6.187:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+http://192.168.6.187:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="•体育「IPV6」",睛彩青少
-http://192.168.6.187:35455/itv/3000000020000031315.m3u8?cdn=FifastbLive
+http://192.168.6.187:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="•体育「IPV6」",睛彩广场舞
-http://192.168.6.187:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
+http://192.168.6.187:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
+
