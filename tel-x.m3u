@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml" x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="67" tvg-name="CGTN" tvg-logo="https://epg.deny.vip/cctv/CGTN.png" group-title="央视",CGTN
 http://192.168.6.1:7088/udp/239.45.1.194:5140
 #EXTINF:-1 tvg-id="124" tvg-name="CCTV-4K" tvg-logo="https://epg.deny.vip/cctv/CCTV-4K.png" group-title="央视",CCTV-4K
@@ -100,7 +100,7 @@ http://192.168.6.1:7088/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="108" tvg-name="五星体育" tvg-logo="https://epg.deny.vip/df/五星体育.png" group-title="地方",五星体育HD
 http://192.168.6.1:7088/udp/239.45.3.210:5140
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.112114.xyz/logo/劲爆体育.png" group-title="地方",劲爆体育
-http://192.168.6.187:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+http://192.168.6.187:8123/TVOD/劲爆体育.m3u8?token=ABCD
 #EXTINF:-1 tvg-id="109" tvg-name="第一财经" tvg-logo="https://epg.deny.vip/df/第一财经.png" group-title="地方",第一财经HD
 http://192.168.6.1:7088/udp/239.45.3.211:5140
 #EXTINF:-1 tvg-id="110" tvg-name="外语频道" tvg-logo="https://epg.deny.vip/df/外语频道.png" group-title="地方",外语频道HD
