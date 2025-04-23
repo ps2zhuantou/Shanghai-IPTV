@@ -186,7 +186,7 @@ http://10.223.3.189:80/PLTV/88888888/224/3221226078/409864267.smil/01.m3u8?fmt=t
 http://10.223.3.189:80/PLTV/88888888/224/3221226080/409864278.smil/01.m3u8?fmt=ts2hls,104,01.m3u8,0,7845,0,0&tenantId=8601
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="睛彩体育",睛彩竞技
 http://192.168.3.232:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="睛彩体育",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://cdn.jsdelivr.net/gh/ps2zhuantou/TVlogo@main/img/睛彩篮球.png" group-title="睛彩体育",睛彩篮球
 http://192.168.3.232:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png" group-title="睛彩体育",睛彩青少
 http://192.168.3.232:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
