@@ -197,26 +197,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
 #EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="睛彩",睛彩广场舞HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通1HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通2HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通3HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通4HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通5HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通6HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通7HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通8HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
-#EXTINF:-1,tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://epg.v1.mk/logo/百视通体育1.png" group-title="百视通体育",百视通9HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕",咪视界1HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225637/1.m3u8
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕",咪视界2HD
