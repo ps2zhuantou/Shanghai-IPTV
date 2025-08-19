@@ -145,15 +145,15 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226173/1.m3u8
-#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="卫视",东方财经HD
+#EXTINF:-1,tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.v1.mk/logo/东方财经.png" group-title="上海",东方财经HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
-#EXTINF:-1,tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/新闻综合.png" group-title="卫视",新闻综合HD
+#EXTINF:-1,tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",新闻综合HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
-#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="卫视",第一财经HD
+#EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="上海",第一财经HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="卫视",五星体育HD
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="上海",五星体育HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225732/1.m3u8
-#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="卫视",东方影视HD
+#EXTINF:-1,tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.v1.mk/logo/东方影视.png" group-title="上海",东方影视HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
