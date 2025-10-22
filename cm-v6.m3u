@@ -7,6 +7,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225723/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225770/1.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1HD
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221227436/1.m3u8
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2HD
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3HD
