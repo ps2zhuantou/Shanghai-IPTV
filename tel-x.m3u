@@ -217,9 +217,9 @@ http://192.168.6.1:7088/rtp/233.18.204.155:5140
 #EXTINF:-1 tvg-id="350" tvg-name="家庭理财" tvg-logo="https://epg.deny.vip/df/家庭理财.png" group-title="地方",家庭理财
 http://192.168.6.1:7088/rtp/233.18.204.157:5140
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png" group-title="睛彩",睛彩竞技HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226116/index.m3u8
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png" group-title="睛彩",睛彩篮球HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226118/index.m3u8
 #EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.v1.mk/logo/睛彩广场舞.png" group-title="睛彩",睛彩广场舞HD
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
+http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226139/index.m3u8
 
