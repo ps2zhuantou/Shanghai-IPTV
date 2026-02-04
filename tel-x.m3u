@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.v1.mk/fy.xml,https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="https://epg.v1.mk/fy.xml,https://epg.deny.vip/sh/tel-epg.xml"
+#EXTM3U url-tvg="http://e.erw.cc/e.xml,https://epg.v1.mk/fy.xml,https://epg.deny.vip/sh/tel-epg.xml" x-tvg-url="http://e.erw.cc/e.xml,https://epg.v1.mk/fy.xml,https://epg.deny.vip/sh/tel-epg.xml"
 
 #EXTINF:-1 tvg-id="107" tvg-name="新闻综合" tvg-logo="https://epg.deny.vip/df/新闻综合.png" group-title="上海",新闻综合HD
 http://192.168.6.1:7088/udp/233.18.204.57:5140
